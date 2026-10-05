@@ -1,0 +1,7 @@
+# Live secrets — the dashboard passphrase and master key. Never commit.
+team-key.txt
+master-key.txt
+__pycache__/
+*.pyc
+*.sqlite
+.cache/
